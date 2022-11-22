@@ -123,5 +123,10 @@ namespace AppRegistroVeiculo.Formularios
             btAdd.Enabled = true;
             edMarca.Clear(); edMarca.Clear(); edAno.Clear(); edPlaca.Clear(); edValor.Clear();
         }
+
+        private void FormCadastroVeiculo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
