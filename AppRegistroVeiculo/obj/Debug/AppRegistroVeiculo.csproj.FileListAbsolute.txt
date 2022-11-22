@@ -1,0 +1,36 @@
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\AppRegistroVeiculo.exe.config
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\AppRegistroVeiculo.exe
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\AppRegistroVeiculo.pdb
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.AssemblyReference.cache
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Form1.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormCadastroVeiculo.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormConsultarCliente.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormConsultarVendas.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormListarVendas.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormRealizarVendas.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Properties.Resources.resources
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.GenerateResource.cache
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.exe
+C:\Users\2301059\source\repos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.pdb
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\AppRegistroVeiculo.exe.config
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\AppRegistroVeiculo.exe
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\AppRegistroVeiculo.pdb
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.AssemblyReference.cache
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.SuggestedBindingRedirects.cache
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Form1.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormCadastroVeiculo.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormConsultarCliente.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormConsultarVendas.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormListarVendas.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormRealizarVendas.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Properties.Resources.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.GenerateResource.cache
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.CoreCompileInputs.cache
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.exe
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.pdb
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\FerramentasBiblioteca.dll
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\bin\Debug\MeusComponentes.dll
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.Formularios.FormCadastroCliente.resources
+E:\IFRO\IFRO 2022\4°Etapa\Linguagem de Programção e Programação Orientada a Objetos\AppRegistroVeiculo\AppRegistroVeiculo\obj\Debug\AppRegistroVeiculo.csproj.CopyComplete
