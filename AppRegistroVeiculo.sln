@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppRegistroVeiculo", "AppRegistroVeiculo\AppRegistroVeiculo.csproj", "{E5742F01-E033-405F-8E6F-528A9162D21C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormExemplo1QuartaEtapa", "C:\Users\pedro\AppData\Local\Temp\MicrosoftEdgeDownloads\8b6627c7-bcde-471c-b6ff-f06b9ae37d75\Ultimato\FormExemplo1QuartaEtapa\FormExemplo1QuartaEtapa\FormExemplo1QuartaEtapa.csproj", "{2C214825-FB16-4005-9EA9-90ADA3C09F2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5742F01-E033-405F-8E6F-528A9162D21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5742F01-E033-405F-8E6F-528A9162D21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5742F01-E033-405F-8E6F-528A9162D21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C214825-FB16-4005-9EA9-90ADA3C09F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C214825-FB16-4005-9EA9-90ADA3C09F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C214825-FB16-4005-9EA9-90ADA3C09F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C214825-FB16-4005-9EA9-90ADA3C09F2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
