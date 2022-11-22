@@ -51,7 +51,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(12, 89);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(240, 16);
@@ -61,7 +61,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 24);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(216, 16);
@@ -70,7 +70,7 @@
             // 
             // cbPlaca
             // 
-            this.cbPlaca.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbPlaca.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbPlaca.FormattingEnabled = true;
             this.cbPlaca.Location = new System.Drawing.Point(12, 108);
             this.cbPlaca.Name = "cbPlaca";
@@ -79,7 +79,7 @@
             // 
             // cbCpf
             // 
-            this.cbCpf.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbCpf.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbCpf.FormattingEnabled = true;
             this.cbCpf.Location = new System.Drawing.Point(12, 40);
             this.cbCpf.Name = "cbCpf";
@@ -89,7 +89,7 @@
             // 
             // btBuscarCliente
             // 
-            this.btBuscarCliente.Font = new System.Drawing.Font("Monocraft", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btBuscarCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btBuscarCliente.Location = new System.Drawing.Point(416, 40);
             this.btBuscarCliente.Name = "btBuscarCliente";
             this.btBuscarCliente.Size = new System.Drawing.Size(215, 28);
@@ -99,7 +99,7 @@
             // 
             // btBuscarPlaca
             // 
-            this.btBuscarPlaca.Font = new System.Drawing.Font("Monocraft", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btBuscarPlaca.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btBuscarPlaca.Location = new System.Drawing.Point(416, 77);
             this.btBuscarPlaca.Name = "btBuscarPlaca";
             this.btBuscarPlaca.Size = new System.Drawing.Size(215, 28);
@@ -109,7 +109,7 @@
             // 
             // btClientePlaca
             // 
-            this.btClientePlaca.Font = new System.Drawing.Font("Monocraft", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btClientePlaca.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btClientePlaca.Location = new System.Drawing.Point(416, 117);
             this.btClientePlaca.Name = "btClientePlaca";
             this.btClientePlaca.Size = new System.Drawing.Size(215, 28);
@@ -119,7 +119,7 @@
             // 
             // btNovaConsulta
             // 
-            this.btNovaConsulta.Font = new System.Drawing.Font("Monocraft", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btNovaConsulta.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btNovaConsulta.Location = new System.Drawing.Point(416, 151);
             this.btNovaConsulta.Name = "btNovaConsulta";
             this.btNovaConsulta.Size = new System.Drawing.Size(215, 28);

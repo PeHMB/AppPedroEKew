@@ -47,7 +47,7 @@
             // 
             // btSalvar
             // 
-            this.btSalvar.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btSalvar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSalvar.Location = new System.Drawing.Point(297, 419);
             this.btSalvar.Name = "btSalvar";
             this.btSalvar.Size = new System.Drawing.Size(124, 42);
@@ -58,7 +58,7 @@
             // 
             // btCancelar
             // 
-            this.btCancelar.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCancelar.Location = new System.Drawing.Point(160, 419);
             this.btCancelar.Name = "btCancelar";
             this.btCancelar.Size = new System.Drawing.Size(124, 42);
@@ -69,7 +69,7 @@
             // 
             // btAdd
             // 
-            this.btAdd.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btAdd.Location = new System.Drawing.Point(23, 419);
             this.btAdd.Name = "btAdd";
             this.btAdd.Size = new System.Drawing.Size(124, 42);
@@ -80,7 +80,7 @@
             // 
             // dtpVendas
             // 
-            this.dtpVendas.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dtpVendas.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtpVendas.Location = new System.Drawing.Point(27, 183);
             this.dtpVendas.Name = "dtpVendas";
             this.dtpVendas.Size = new System.Drawing.Size(396, 26);
@@ -89,7 +89,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(28, 164);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(133, 16);
@@ -99,7 +99,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(27, 98);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(178, 16);
@@ -109,7 +109,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(27, 33);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(177, 16);
@@ -118,7 +118,7 @@
             // 
             // cbVeiculo
             // 
-            this.cbVeiculo.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbVeiculo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbVeiculo.FormattingEnabled = true;
             this.cbVeiculo.Location = new System.Drawing.Point(27, 117);
             this.cbVeiculo.Name = "cbVeiculo";
@@ -128,7 +128,7 @@
             // 
             // cbPessoa
             // 
-            this.cbPessoa.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbPessoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbPessoa.FormattingEnabled = true;
             this.cbPessoa.Location = new System.Drawing.Point(27, 49);
             this.cbPessoa.Name = "cbPessoa";
@@ -139,7 +139,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(25, 226);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(74, 16);
@@ -148,7 +148,7 @@
             // 
             // edModelo
             // 
-            this.edModelo.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.edModelo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edModelo.Location = new System.Drawing.Point(28, 245);
             this.edModelo.Name = "edModelo";
             this.edModelo.Size = new System.Drawing.Size(393, 26);
@@ -157,7 +157,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(25, 283);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(55, 16);
@@ -166,7 +166,7 @@
             // 
             // edNome
             // 
-            this.edNome.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.edNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edNome.Location = new System.Drawing.Point(28, 302);
             this.edNome.Name = "edNome";
             this.edNome.Size = new System.Drawing.Size(393, 26);
@@ -175,7 +175,7 @@
             // hk
             // 
             this.hk.AutoSize = true;
-            this.hk.Font = new System.Drawing.Font("Monocraft", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hk.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hk.Location = new System.Drawing.Point(24, 345);
             this.hk.Name = "hk";
             this.hk.Size = new System.Drawing.Size(142, 16);
@@ -184,7 +184,7 @@
             // 
             // edValorVenda
             // 
-            this.edValorVenda.Font = new System.Drawing.Font("Monocraft", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.edValorVenda.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.edValorVenda.Location = new System.Drawing.Point(27, 364);
             this.edValorVenda.Name = "edValorVenda";
             this.edValorVenda.Size = new System.Drawing.Size(393, 26);
