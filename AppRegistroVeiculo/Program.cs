@@ -17,7 +17,7 @@ namespace AppRegistroVeiculo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormRealizarVendas());
+            Application.Run(new Form1());
         }
     }
 }
